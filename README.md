@@ -1,2 +1,2 @@
-# enhance-ssr-c-
+# enhance-ssr-cpp
 Enhance wasm C++ example
